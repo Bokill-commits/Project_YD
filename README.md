@@ -16,3 +16,7 @@
 ---
 
 ## 🛠️ 기술 스택
+
+| Language | Tools | Core |
+|-----------|------|------|
+| Python | Google Colab | yt-dlp, ffmpeg |
