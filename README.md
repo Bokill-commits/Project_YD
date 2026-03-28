@@ -32,7 +32,7 @@ The author is not responsible for any misuse of this project.
 ## 📌 프로젝트 특징
 
 - 유튜브 영상 정보 자동 분석
-- 선택 가능한 화질 리스트 제공
+- 선택 가능한 화질 리스트 출력
 - 다운로드 진행률 실시간 출력
 - 선택한 화질로 자동 다운로드
 - PC로 바로 다운로드 지원 (Google Colab)
@@ -53,7 +53,7 @@ The author is not responsible for any misuse of this project.
 - 사용 가능한 해상도(height)를 기준으로 비디오 스트림 필터링
 - 비디오 스트림과 오디오 스트림을 선택하여 병합 (ffmpeg 활용)
 - progress_hook을 통해 다운로드 진행률을 실시간으로 출력
-- 다양한 해상도 옵션을 사용자에게 제공하기 위해 포맷 정보를 정렬 및 가공
+- 다양한 해상도 옵션을 위해 포맷 정보를 정렬 및 가공
 
 ---
 
