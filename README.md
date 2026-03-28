@@ -6,6 +6,8 @@
 
 ## ⚠️ 주의사항
 
+본 프로젝트는 학습 및 개인적인 용도로 제작되었습니다.
+
 사용 시 YouTube 이용약관 및 저작권 관련 법규를 준수해야 합니다.
 
 저작권이 있는 콘텐츠를 무단으로 다운로드하는 행위는 법적 문제를 초래할 수 있습니다.
@@ -15,6 +17,8 @@
 ##
 
 ## ⚠️ Disclaimer
+
+This project is intended for educational and personal use only.
 
 Please ensure that you comply with YouTube's Terms of Service and applicable copyright laws when using this tool.
 
