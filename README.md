@@ -2,6 +2,16 @@
 
 본 프로젝트는 학습 및 개인적인 용도로 머신러닝 및 멀티미디어 처리 실험을 위한 데이터의 수집 파이프라인의 일부로 개발하였습니다.
 
+## 📌 프로젝트 특징
+
+Google Colab 환경에서 yt-dlp를 활용해 유튜브 영상을 원하는 화질로 수집할 수 있는 자동화 스크립트를 구현하였습니다.
+
+- 유튜브 영상 정보 자동 분석
+- 선택 가능한 화질 리스트 제공
+- 다운로드 진행률 실시간 출력
+- 선택한 화질로 자동 다운로드
+- PC로 바로 다운로드 지원 (Google Colab)
+
 ---
 
 ## ⚠️ 주의사항
@@ -25,18 +35,6 @@ Please ensure that you comply with YouTube's Terms of Service and applicable cop
 Downloading copyrighted content without permission may violate laws and platform policies.
 
 The author is not responsible for any misuse of this project.
-
----
-
-## 📌 프로젝트 특징
-
-Google Colab 환경에서 yt-dlp를 활용해 유튜브 영상을 원하는 화질로 수집할 수 있는 자동화 스크립트를 구현하였습니다.
-
-- 유튜브 영상 정보 자동 분석
-- 선택 가능한 화질 리스트 제공
-- 다운로드 진행률 실시간 출력
-- 선택한 화질로 자동 다운로드
-- PC로 바로 다운로드 지원 (Google Colab)
 
 ---
 
